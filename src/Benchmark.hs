@@ -1,4 +1,4 @@
-{-# LANGUAGE BangPatterns, FlexibleContexts #-}
+{-# LANGUAGE BangPatterns, FlexibleContexts, TypeFamilies #-}
 import Control.Monad.ST.Safe (ST)
 import Criterion.Main
 import Data.Int
